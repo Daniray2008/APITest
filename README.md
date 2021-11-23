@@ -6,6 +6,7 @@ To run this project it is necessary to have Node.js and npm -----> https://nodej
 To run this project do:
 
 npm install cypress
+
 npm run cypress:open 
 
 
