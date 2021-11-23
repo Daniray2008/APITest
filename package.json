@@ -1,0 +1,25 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniray2008/APITest.git"
+  },
+  "keywords": [],
+  "author": "Danielli Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniray2008/APITest/issues"
+  },
+  "homepage": "https://github.com/Daniray2008/APITest#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
